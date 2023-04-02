@@ -1,2 +1,1 @@
-Hello, Hexlet!
-My name is Maxim
+Hello, Hexlet! How are you?
